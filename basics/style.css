@@ -35,3 +35,10 @@
 .card > img{
     width:100%;
 }
+
+.shimmer-card{
+    width:18%;
+    height:300px;
+    background:lightgrey;
+    margin:10px;
+}
