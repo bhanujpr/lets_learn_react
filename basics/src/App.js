@@ -105,8 +105,7 @@ const appRouter=createBrowserRouter([
             }
         ],
     },
-   
-    
+//path    
 ])
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
